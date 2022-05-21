@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Grace Mutinda
-- 👀 I’m interested in creating SDG solutions using mobile app development and website development
-- 🌱 I’m currently a final year student of a Bachelors degree in Business Information Technology at The Technical University of Kenya
-- 💞️ I’m passionate about creating solutions using emerging technologies.
-- currently an Intern at Pwani Teknowgalz
+- 👀 I’m a Software Developer UI/UX.
+- 🌱 Passionate about Design, Creativity and Innovation.
+- 💞️ Also passionate about creating solutions using emerging technologies.
 - 📫 How to reach me, grctutu@gmail.com.  
 
 <!---
