@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace Mutinda
 - 👀 I’m a Technical Community Manager with a background in Software Development & UI/UX.
-- 🌱 Passionate about Design, Creativity and Innovation, also a Women in Tech Enthusiast.
+- 🌱 Passionate aboutbuilding thriving Tech Communities, also a Women in Tech Enthusiast.
 - 💞️ Also passionate about creating solutions using emerging technologies.
 - 📫 How to reach me, grctutu@gmail.com.  
 
